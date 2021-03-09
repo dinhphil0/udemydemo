@@ -4,6 +4,6 @@ This is a simple readme file.
 
 # HEADING 2 Sample
 
-I hope this isn't a problem
+bound to cause trouble
 
 modified once more
